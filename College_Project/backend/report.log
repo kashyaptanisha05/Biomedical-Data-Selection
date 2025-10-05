@@ -1,0 +1,236 @@
+2025-10-04 23:51:06,990 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-04 23:51:06,991 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-04 23:51:06,994 - werkzeug - INFO -  * Restarting with stat
+2025-10-04 23:51:09,527 - werkzeug - WARNING -  * Debugger is active!
+2025-10-04 23:51:09,535 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:10:20,090 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:20] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:10:20,194 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-10-05 00:10:25,338 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:25] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:10:25,387 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-10-05 00:10:27,607 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-10-05 00:10:28,648 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-10-05 00:10:28,878 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-10-05 00:10:53,186 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:10:53] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:11:21,474 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:11:21] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:23:55,900 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 00:23:57,470 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:24:38,196 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:24:38,236 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:37:10,405 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 00:37:10,405 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 00:37:10,409 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:37:33,052 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:37:33,066 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:37:33,240 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:37:33] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:37:33,306 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:37:33] "POST /predict HTTP/1.1" 200 -
+2025-10-05 00:37:38,475 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:37:38] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:38:30,530 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 00:38:31,270 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:39:35,858 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 00:39:35,868 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 00:39:35,944 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:39:55,845 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:39:55,855 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:39:57,389 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:39:57] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:39:58,973 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:39:58] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:40:00,652 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:40:00] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:40:00,705 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:40:00] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:40:02,115 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:40:02] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:40:03,386 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:40:03] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:40:34,652 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 00:40:34,654 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 00:40:34,657 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:40:53,127 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:40:53,130 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:41:06,967 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:41:06] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:41:14,240 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:41:14] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 00:41:22,395 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:41:22] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:42:53,957 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 00:42:54,213 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:43:17,451 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:43:17,462 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:43:17,588 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:43:17] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:43:17,631 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:43:17] "POST /predict HTTP/1.1" 200 -
+2025-10-05 00:43:57,806 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:43:57] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:44:36,805 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:44:36] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:45:00,363 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:45:00] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:45:29,830 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:45:29] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:45:30,374 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:45:30] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:51:32,450 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:51:32] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:51:51,743 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:51:51] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:52:24,038 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:52:24] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:52:31,941 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:52:31] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:53:11,063 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 00:53:11,063 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 00:53:11,067 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 00:53:25,751 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 00:53:25,755 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 00:53:44,015 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:53:44] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:06,712 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:06] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:37,418 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:37] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:40,696 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:40] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:41,776 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:41] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:45,001 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:45] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 00:54:47,052 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:54:47] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:55:08,106 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:55:08] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:55:29,244 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:55:29] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:55:30,872 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:55:30] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:55:30,984 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:55:30] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:55:32,332 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:55:32] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 00:56:03,047 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:56:03] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:56:03,103 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:56:03] "POST /predict HTTP/1.1" 200 -
+2025-10-05 00:56:28,788 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:56:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 00:56:28,796 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 00:56:28] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:01:15,130 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 01:01:15,591 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:01:49,648 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:01:49,649 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:01:49,651 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:02:15,037 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:02:15,044 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:02:57,081 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:02:57] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 01:03:49,658 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:03:49] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 01:04:05,660 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:05] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:04:05,691 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:05] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:04:22,188 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:22] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:04:22,194 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:22] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:04:42,974 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:42] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:04:42,980 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:04:42] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:05:07,477 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:05:07] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:05:07,484 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:05:07] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:06:21,477 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 01:06:22,257 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:06:40,590 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:06:40,597 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:06:40,705 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:06:40] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:06:40,755 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:06:40] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:10:26,855 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:10:26] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:10:26,895 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:10:26] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:10:38,586 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:10:38] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 01:10:38,597 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:10:38] "POST /predict HTTP/1.1" 200 -
+2025-10-05 01:26:13,149 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 01:26:14,284 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:26:48,851 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:26:48,851 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:26:48,855 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:26:51,381 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:26:51,401 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:34:39,854 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:34:39,855 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:34:39,857 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:34:42,076 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:34:42,091 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:34:59,496 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:34:59] "[35m[1mGET /run_ga HTTP/1.1[0m" 500 -
+2025-10-05 01:36:44,389 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 01:36:45,133 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:37:17,607 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:37:17,609 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:37:17,614 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:37:19,554 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:37:19,567 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:37:49,185 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:37:49] "[35m[1mGET /run_ga HTTP/1.1[0m" 500 -
+2025-10-05 01:38:39,701 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 01:38:39,985 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:38:43,560 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:38:43,568 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:38:57,721 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 01:38:58,052 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:39:00,194 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:39:00,200 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:39:19,787 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:39:19] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 01:39:51,278 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:39:51] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 01:40:44,469 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 01:40:44,728 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:41:44,819 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:41:44,820 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:41:44,822 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:42:14,031 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:42:14,094 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:47:30,192 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 01:47:31,597 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:49:00,833 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:49:00,834 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:49:00,838 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:49:05,175 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:49:05,185 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:52:53,033 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:52:53] "[35m[1mGET /run_ga HTTP/1.1[0m" 500 -
+2025-10-05 01:54:32,372 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 01:56:11,891 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 01:56:11,891 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 01:56:11,894 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 01:56:14,718 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 01:56:14,727 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 01:56:47,258 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:56:47] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 01:58:12,487 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 01:58:12] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 02:00:15,976 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 02:00:16,800 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:00:20,419 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:00:20,423 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:00:47,968 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:00:47] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 02:03:56,285 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 02:03:56,797 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:04:01,106 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:04:01,226 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:04:08,677 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:04:08] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 02:14:52,226 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 02:14:53,815 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:15:21,976 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 02:15:21,976 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 02:15:21,978 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:15:24,954 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:15:24,978 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:16:09,551 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:16:09] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 02:18:24,020 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\ga_pso_svm.py', reloading
+2025-10-05 02:18:25,713 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:21:28,948 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 02:21:28,949 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 02:21:28,951 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:21:32,456 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:21:32,477 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:22:06,892 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:22:06] "[35m[1mGET /run_pso HTTP/1.1[0m" 500 -
+2025-10-05 02:24:09,802 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 02:24:10,474 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:24:14,276 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:24:14,282 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:24:43,856 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:24:43] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 02:25:06,174 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:25:06] "[35m[1mGET /run_ga HTTP/1.1[0m" 500 -
+2025-10-05 02:26:08,956 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 02:26:09,204 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:26:12,097 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:26:12,100 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:26:35,565 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:26:35] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 02:27:00,325 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:27:00] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 02:27:40,636 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:27:40] "[35m[1mGET /run_combined HTTP/1.1[0m" 500 -
+2025-10-05 02:28:15,131 - werkzeug - INFO -  * Detected change in 'D:\\OneDrive\\Desktop\\MyProjects\\College Project\\backend\\app.py', reloading
+2025-10-05 02:28:15,930 - werkzeug - INFO -  * Restarting with stat
+2025-10-05 02:28:20,269 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 02:28:20,279 - werkzeug - INFO -  * Debugger PIN: 709-728-231
+2025-10-05 02:36:41,976 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:36:41] "GET /run_combined HTTP/1.1" 200 -
+2025-10-05 02:38:19,792 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:38:19] "GET /run_ga HTTP/1.1" 200 -
+2025-10-05 02:39:00,587 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:39:00] "GET /run_pso HTTP/1.1" 200 -
+2025-10-05 02:41:00,429 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:41:00] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:41:00,545 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:41:00] "POST /predict HTTP/1.1" 200 -
+2025-10-05 02:41:46,781 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:41:46] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:41:46,794 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:41:46] "POST /predict HTTP/1.1" 200 -
+2025-10-05 02:47:27,684 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:47:27] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:47:27,703 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:47:27] "POST /predict HTTP/1.1" 200 -
+2025-10-05 02:50:14,429 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:50:14] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:50:14,441 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:50:14] "POST /predict HTTP/1.1" 200 -
+2025-10-05 02:51:43,395 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:51:43] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:51:43,454 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:51:43] "POST /predict HTTP/1.1" 200 -
+2025-10-05 02:52:15,714 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:52:15] "OPTIONS /predict HTTP/1.1" 200 -
+2025-10-05 02:52:15,723 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 02:52:15] "POST /predict HTTP/1.1" 200 -
